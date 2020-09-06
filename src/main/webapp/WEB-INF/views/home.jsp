@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>
-	Spring Project
+	Spring Project!
 </h1>
 
 </body>
